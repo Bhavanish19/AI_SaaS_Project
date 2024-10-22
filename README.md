@@ -2,7 +2,10 @@
 
 Built with the Next.js 14 App Router, Clerk for Auth - with Passkeys, Github and Google Sign in, React, OpenAI - Whisper API, ShadCN UI library for components, React Markdown, NeonDb, UploadThing, Stripe for payments, Webhooks, TypeScript, TailwindCSS and more.
 
-Project Image
+Project Image: 
+
+<img width="1247" alt="Screenshot 2024-10-22 at 1 11 48 PM" src="https://github.com/user-attachments/assets/64b5ed11-b999-45d7-bf64-b514dc74e5a3">
+
 
 Features
 🌐 Next.js 14 App Router & Server Actions
